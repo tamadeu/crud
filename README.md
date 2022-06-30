@@ -1,9 +1,11 @@
 # crud
- CRUD study with PHP and MySQL
+ CRUD study with PHP and MySQL.
+
+ Tables from DataTables.net. Really easy to use and very handy.
 
 ## Creating the Database Table
 
-Execute the following SQL query to create a table named employees inside your MySQL database. We will use this table for all of our future operations.
+Execute the following SQL query to create a table named employees inside your MySQL database.
 
 ```
 CREATE TABLE employees (
